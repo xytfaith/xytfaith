@@ -4,6 +4,7 @@
 - 💞️ I’m looking forward to gain more knowledge in my study fields ;)
 - 📫 How to reach me: @faithtiong1118 (IG), https://www.facebook.com/grace.tiong.31 (FB), my personal website: https://faithxy.xyz/
 
+(For the stuff below, i recommending viewing it using the "raw" mode on GitHub, thanks!!)
 See Below(Intro.py):
 ┌──(faith㉿kali)-[~]
 └─$ python3 Intro.py
