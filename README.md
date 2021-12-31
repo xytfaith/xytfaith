@@ -5,8 +5,8 @@
 - 📫 How to reach me: @faithtiong1118 (IG), https://www.facebook.com/grace.tiong.31 (FB), my personal website: https://faithxy.xyz/
 
 See Below(Intro.py):
- ┌──(faith㉿kali)-[~]
- └─$ python3 Intro.py
+┌──(faith㉿kali)-[~]
+└─$ python3 Intro.py
 ----------code below----------
 
 print("My name is Faith, just a lil noob and newbie in the big as IT world lol, trying my best to learn more and study more in my field, especially for Cyber Security.")
