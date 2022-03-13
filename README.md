@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xytfaith AKA Faith/Faith42Day
+- 👋 Hi, I’m @xytfaith AKA Faith Tiong/The XSS Parrot
 - 👀 I’m interested in NEW PPL AND FRIENDS LOL :-)
 - 🌱 I’m currently learning Cyber Security & Animal Studies & to survive and to be successful :) 
 - 💞️ I’m looking forward to gain more knowledge in my study fields ;)
